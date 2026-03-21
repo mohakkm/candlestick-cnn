@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Model weights
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# OS Specific
+.DS_Store
+Thumbs.db
