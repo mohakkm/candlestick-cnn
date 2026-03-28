@@ -189,7 +189,7 @@ This will:
 
 A **Convolutional Neural Network** is a type of neural network designed for images. It learns to recognize patterns by sliding filters across the image to detect features.
 
-### Our CNN Architecture
+### CNN Architecture
 
 ```
 Input: 224x224 RGB image
@@ -303,22 +303,6 @@ Once you understand the basics, try these:
 
 ---
 
-## 📚 Learning Resources
-
-### Candlestick Patterns
-- [Investopedia - Candlestick Basics](https://www.investopedia.com/trading/candlestick-charting-what-is-it/)
-- [StockCharts - Candlestick Patterns](https://school.stockcharts.com/doku.php?id=chart_analysis:introduction_to_candlesticks)
-
-### Deep Learning
-- [PyTorch Tutorials](https://pytorch.org/tutorials/)
-- [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)
-
-### Quantitative Finance
-- [QuantStart](https://www.quantstart.com/)
-- [Quantopian Lectures](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
-
----
-
 ## 🐛 Troubleshooting
 
 ### "No module named 'torch'"
@@ -344,8 +328,10 @@ pip install torch torchvision
 ---
 
 ## 👤 Author
-
 Created as an educational project for learning ML/DL in finance.
+
+For queries and suggestions please feel free to reach out:
+Mohakk Harshal Malvankar | mohakkmalvankar1104@gmail.com
 
 ---
 
